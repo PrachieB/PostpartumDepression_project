@@ -58,7 +58,8 @@ View your prediction with the risk assessment—either Low Risk or High Risk—a
 Feel free to contribute by forking the repository and making pull requests! We welcome improvements, bug fixes, or new features to make this app even more helpful! 🌻
 
 
- **Made with ❤️ and passion by [Nishtha Gupta](https://github.com/nishthagupta25)**
+ **Made with ❤️ and passion by prachi 
+ **
 
 
 
