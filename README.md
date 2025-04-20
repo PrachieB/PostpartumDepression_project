@@ -21,7 +21,7 @@ To run the web app locally, follow these steps:
 
 1.**Clone the repository** 🖥️
 ```bash
-git clone https://github.com/nishthagupta25/PostpartumDepression_project.git
+git clone https://github.com/PrachieB/PostpartumDepression_project.git
 ```
 
 2.**Install the required packages** 📦 \
